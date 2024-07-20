@@ -1,6 +1,8 @@
 Round 1
-rock
+rock vs. rock -> rock wins
+
 Round 2
-rock
+rock vs. rock -> rock wins
+
 Round 3
-rock
+rock vs. srock -> rock wins
